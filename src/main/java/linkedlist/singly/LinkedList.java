@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.singly;
 
 public interface LinkedList<T> {
     int size();

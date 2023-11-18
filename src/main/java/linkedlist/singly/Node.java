@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.singly;
 
 public interface Node<T> {
     T getElement();

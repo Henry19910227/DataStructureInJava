@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.singly;
 
 public class SinglyLinkedList<T> implements LinkedList<T> {
 
